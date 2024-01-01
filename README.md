@@ -1,1 +1,1 @@
-# mysql_my_cheatsheet
+# MySQL My Cheat Sheet
